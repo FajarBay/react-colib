@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-colid/static/css/main.83bd8ac9.chunk.css",
+    "main.js": "/react-colid/static/js/main.e992c724.chunk.js",
+    "main.js.map": "/react-colid/static/js/main.e992c724.chunk.js.map",
+    "runtime~main.js": "/react-colid/static/js/runtime~main.5048a972.js",
+    "runtime~main.js.map": "/react-colid/static/js/runtime~main.5048a972.js.map",
+    "static/js/2.fc84c080.chunk.js": "/react-colid/static/js/2.fc84c080.chunk.js",
+    "static/js/2.fc84c080.chunk.js.map": "/react-colid/static/js/2.fc84c080.chunk.js.map",
+    "index.html": "/react-colid/index.html",
+    "precache-manifest.27a660ab83f06632eb8e47da9c910a7f.js": "/react-colid/precache-manifest.27a660ab83f06632eb8e47da9c910a7f.js",
+    "service-worker.js": "/react-colid/service-worker.js",
+    "static/css/main.83bd8ac9.chunk.css.map": "/react-colid/static/css/main.83bd8ac9.chunk.css.map"
+  }
+}
