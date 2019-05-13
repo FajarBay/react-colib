@@ -1,8 +1,8 @@
 {
-  "name": "react-end",
+  "name": "coba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spindyzel.github.io/react-end",
+  "homepage": "https://fajarbay.github.io/react-colid",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
